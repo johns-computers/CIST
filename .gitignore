@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+View/cist_view-win32-x64/*
+
 # C extensions
 *.so
 
