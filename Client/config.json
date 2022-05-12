@@ -1,4 +1,4 @@
 {
-	"idle_time": 20,
+	"idle_time": 300,
 	"log_path": "./data/"
 }
